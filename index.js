@@ -17,6 +17,7 @@ const config = {
         memberSyntaxSortOrder: ["none", "all", "multiple", "single"],
       },
     ],
+    "object-curly-spacing": "off",
   },
 };
 

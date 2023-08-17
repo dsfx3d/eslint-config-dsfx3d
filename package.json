@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-dsfx3d",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An opinionated ESLint config for TypeScript projects",
   "repository": "dsfx3d/eslint-config-dsfx3d",
   "type": "commonjs",
@@ -10,7 +10,8 @@
   "scripts": {
     "lint": "eslint . && prettier -c *.js",
     "release": "pnpm run test && changelogen --release && npm publish git push --follow-tags",
-    "test": "pnpm run lint"
+    "test": "pnpm run lint",
+    "prepare": "husky install"
   },
   "author": "Yashodhan Singh <dsfx3d@gmail.com>",
   "license": "ISC",
@@ -23,13 +24,23 @@
     "eslint-plugin-sort-imports-es6-autofix": "^0.6.0"
   },
   "devDependencies": {
+    "@commitlint/cli": "^17.7.1",
+    "@commitlint/config-conventional": "^17.7.0",
     "changelogen": "^0.5.3",
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
     "eslint": "^8.46.0",
+    "husky": "^8.0.0",
     "prettier": "^3.0.1",
     "typescript": "^5.1.6"
   },
   "peerDependencies": {
     "eslint": "*",
     "typescript": "*"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
