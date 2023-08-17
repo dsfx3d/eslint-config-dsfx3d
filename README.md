@@ -1,1 +1,1 @@
-# issue-notifier-action
+# eslint-config-dsfx3d
