@@ -10,7 +10,8 @@
   "scripts": {
     "lint": "eslint . && prettier -c *.js",
     "release": "pnpm run test && changelogen --release && npm publish git push --follow-tags",
-    "test": "pnpm run lint"
+    "test": "pnpm run lint",
+    "prepare": "husky install"
   },
   "author": "Yashodhan Singh <dsfx3d@gmail.com>",
   "license": "ISC",
