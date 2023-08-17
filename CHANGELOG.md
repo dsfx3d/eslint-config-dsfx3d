@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v0.0.2
+
+[compare changes](https://undefined/undefined/compare/v0.0.1...v0.0.2)
+
+
+### 🏡 Chore
+
+  - 📝 add npm version badge (6f6a014)
+
+### ❤️  Contributors
+
+- Yashodhan Singh Rathore <dsfx3d@gmail.com>
+
 ## v0.0.1
 
 
