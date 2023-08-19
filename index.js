@@ -20,6 +20,7 @@ const config = {
     ],
     "object-curly-spacing": "off",
     complexity: ["error", 3],
+    "max-params": ["error", 4],
   },
 };
 
