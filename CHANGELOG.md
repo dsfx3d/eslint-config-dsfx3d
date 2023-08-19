@@ -1,6 +1,21 @@
 # Changelog
 
 
+## v0.1.3
+
+[compare changes](https://undefined/undefined/compare/v0.1.2...v0.1.3)
+
+
+### 🏡 Chore
+
+  - **eslint:** Turn off `unicorn/filename-case` (4680bc6)
+  - **eslint:** Turn off `import/order` (c858567)
+  - **eslint:** Turn off `require-await` (40318b6)
+
+### ❤️  Contributors
+
+- Yashodhan Singh Rathore <dsfx3d@gmail.com>
+
 ## v0.1.2
 
 [compare changes](https://undefined/undefined/compare/v0.1.1...v0.1.2)
