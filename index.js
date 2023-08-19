@@ -35,6 +35,7 @@ const config = {
         max: 3,
       },
     ],
+    "unicorn/filename-case": "off",
   },
 };
 
