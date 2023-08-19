@@ -1,6 +1,33 @@
 # Changelog
 
 
+## v0.0.4
+
+[compare changes](https://undefined/undefined/compare/v0.0.3...v0.0.4)
+
+
+### 🚀 Enhancements
+
+  - **eslint:** Add recommended config of sonarjs (#6)
+  - **complexity:** Set max cyclomatic complexity (#6)
+  - **complexity:** Allowed `max-param` 4 (#6)
+  - **complexity:** Allowed `max-statements` 7 (#6)
+  - **complexity:** Allowed `max-statements-per-line` max 1 (#6)
+  - **complexity:** Allow 2 `max-nested-callbacks` (#6)
+  - **complexity:** Allow 3 `max-depth` (#6)
+
+### 📦 Build
+
+  - **package:** Remove publishing and pushing from release script (5403b0a)
+
+### 🏡 Chore
+
+  - **changelog:** Set github repo (dcdd0d9)
+
+### ❤️  Contributors
+
+- Yashodhan Singh Rathore <dsfx3d@gmail.com>
+
 ## v0.0.3
 
 [compare changes](https://undefined/undefined/compare/v0.0.2...v0.0.3)
