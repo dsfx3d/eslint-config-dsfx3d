@@ -9,7 +9,7 @@
   ],
   "scripts": {
     "lint": "eslint . && prettier -c *.js",
-    "release": "pnpm run test && changelogen --release && npm publish git push --follow-tags",
+    "release": "pnpm run test && changelogen --release",
     "test": "pnpm run lint",
     "prepare": "husky install"
   },
