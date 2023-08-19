@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-dsfx3d",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An opinionated ESLint config for TypeScript projects",
   "repository": "dsfx3d/eslint-config-dsfx3d",
   "type": "commonjs",
@@ -9,7 +9,7 @@
   ],
   "scripts": {
     "lint": "eslint . && prettier -c *.js",
-    "release": "pnpm run test && changelogen --release && npm publish git push --follow-tags",
+    "release": "pnpm run test && changelogen --release",
     "test": "pnpm run lint",
     "prepare": "husky install"
   },
@@ -21,6 +21,7 @@
     "eslint-config-prettier": "^9.0.0",
     "eslint-config-unjs": "^0.2.1",
     "eslint-plugin-prettier": "^5.0.0",
+    "eslint-plugin-sonarjs": "^0.20.0",
     "eslint-plugin-sort-imports-es6-autofix": "^0.6.0"
   },
   "devDependencies": {
