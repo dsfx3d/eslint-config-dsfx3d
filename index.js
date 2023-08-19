@@ -29,6 +29,12 @@ const config = {
       },
     ],
     "max-nested-callbacks": ["error", 2],
+    "max-depth": [
+      "error",
+      {
+        max: 3,
+      },
+    ],
   },
 };
 
