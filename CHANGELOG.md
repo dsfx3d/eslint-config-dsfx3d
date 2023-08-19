@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v0.1.2
+
+[compare changes](https://undefined/undefined/compare/v0.1.1...v0.1.2)
+
+
+### 📖 Documentation
+
+  - **readme:** Change project description (7d5f2fb)
+
+### ❤️  Contributors
+
+- Yashodhan Singh Rathore <dsfx3d@gmail.com>
+
 ## v0.1.1
 
 [compare changes](https://undefined/undefined/compare/v0.0.5...v0.1.1)
