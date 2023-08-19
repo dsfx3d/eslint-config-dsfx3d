@@ -6,6 +6,7 @@ const config = {
     "eslint:recommended",
     "plugin:prettier/recommended",
     "eslint-config-unjs",
+    "plugin:sonarjs/recommended",
   ],
   plugins: ["sort-imports-es6-autofix"],
   rules: {
