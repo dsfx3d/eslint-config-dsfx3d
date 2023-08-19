@@ -22,6 +22,12 @@ const config = {
     complexity: ["error", 3],
     "max-params": ["error", 4],
     "max-statements": ["error", 7],
+    "max-statements-per-line": [
+      "error",
+      {
+        max: 1,
+      },
+    ],
   },
 };
 
