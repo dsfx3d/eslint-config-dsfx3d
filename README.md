@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/eslint-config-dsfx3d.svg)](https://badge.fury.io/js/eslint-config-dsfx3d)
 
-An opinionated ESLint config for TypeScript projects.
+An opinionated ESLint config.
 
 ## Features
 
