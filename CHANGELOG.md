@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v0.0.5
+
+[compare changes](https://undefined/undefined/compare/v0.0.4...v0.0.5)
+
+
+### 📖 Documentation
+
+  - Add README (f9d88ec)
+
+### ❤️  Contributors
+
+- Yashodhan Singh Rathore <dsfx3d@gmail.com>
+
 ## v0.0.4
 
 [compare changes](https://undefined/undefined/compare/v0.0.3...v0.0.4)
