@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-dsfx3d",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "An opinionated ESLint config for TypeScript projects",
   "repository": "dsfx3d/eslint-config-dsfx3d",
   "type": "commonjs",
