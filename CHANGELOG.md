@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v0.1.5
+
+[compare changes](https://undefined/undefined/compare/v0.1.4...v0.1.5)
+
+
+### 🏡 Chore
+
+  - **eslint:** `"unicorn/prefer-top-level-await": "off"` (afd88cd)
+
+### ❤️  Contributors
+
+- Yashodhan Singh Rathore <dsfx3d@gmail.com>
+
 ## v0.1.4
 
 [compare changes](https://undefined/undefined/compare/v0.1.3...v0.1.4)
