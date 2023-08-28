@@ -37,6 +37,7 @@ const config = {
     ],
     "unicorn/filename-case": "off",
     "unicorn/prefer-module": "off",
+    "unicorn/top-level-await": "off",
     "import/order": "off",
     "require-await": "off",
   },
