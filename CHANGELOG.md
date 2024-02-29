@@ -1,6 +1,27 @@
 # Changelog
 
 
+## v0.1.6
+
+[compare changes](https://undefined/undefined/compare/v0.1.5...v0.1.6)
+
+
+### 🚀 Enhancements
+
+  - Disable `no-useless-constructor` (14512d5)
+
+### 🩹 Fixes
+
+  - **deps:** Update dependency eslint-plugin-sonarjs to ^0.21.0 (63d5c72)
+
+### 🏡 Chore
+
+  - **vscode:** Enable explicit auto-formatting (5467870)
+
+### ❤️  Contributors
+
+- Yashodhan Singh Rathore <dsfx3d@gmail.com>
+
 ## v0.1.5
 
 [compare changes](https://undefined/undefined/compare/v0.1.4...v0.1.5)
