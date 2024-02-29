@@ -35,6 +35,7 @@ const config = {
         max: 3,
       },
     ],
+    "no-useless-constructor": "off",
     "unicorn/filename-case": "off",
     "unicorn/prefer-module": "off",
     "unicorn/prefer-top-level-await": "off",
