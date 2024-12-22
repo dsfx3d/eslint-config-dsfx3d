@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-dsfx3d",
-  "version": "0.1.6",
+  "version": "0.1.9",
   "description": "An opinionated ESLint config for TypeScript projects",
   "repository": "dsfx3d/eslint-config-dsfx3d",
   "type": "commonjs",
@@ -10,7 +10,7 @@
   ],
   "scripts": {
     "inspector": "pnpx @eslint/config-inspector",
-    "lint": "eslint . && prettier -c *.js",
+    "lint": "eslint . && prettier -c ./lib/*.js",
     "release": "pnpm run test && changelogen --release",
     "test": "pnpm run lint",
     "prepare": "husky"

@@ -1,6 +1,45 @@
 # Changelog
 
 
+## v0.1.9
+
+[compare changes](https://undefined/undefined/compare/v0.1.6...v0.1.9)
+
+
+### 🚀 Enhancements
+
+  - Add flat styleguides for eslint@^9 (cda5712)
+
+### ❤️  Contributors
+
+- Dsfx3d <dsfx3d@gmail.com>
+
+## v0.1.8
+
+[compare changes](https://undefined/undefined/compare/v0.1.6...v0.1.8)
+
+
+### 🚀 Enhancements
+
+  - Add flat styleguides for eslint@^9 (cda5712)
+
+### ❤️  Contributors
+
+- Dsfx3d <dsfx3d@gmail.com>
+
+## v0.1.7
+
+[compare changes](https://undefined/undefined/compare/v0.1.6...v0.1.7)
+
+
+### 🚀 Enhancements
+
+  - Add flat styleguides for eslint@^9 (cda5712)
+
+### ❤️  Contributors
+
+- Dsfx3d <dsfx3d@gmail.com>
+
 ## v0.1.6
 
 [compare changes](https://undefined/undefined/compare/v0.1.5...v0.1.6)
