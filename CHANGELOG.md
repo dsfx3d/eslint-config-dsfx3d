@@ -1,40 +1,12 @@
 # Changelog
 
-
 ## v0.1.9
 
 [compare changes](https://undefined/undefined/compare/v0.1.6...v0.1.9)
 
-
 ### 🚀 Enhancements
 
-  - Add flat styleguides for eslint@^9 (cda5712)
-
-### ❤️  Contributors
-
-- Dsfx3d <dsfx3d@gmail.com>
-
-## v0.1.8
-
-[compare changes](https://undefined/undefined/compare/v0.1.6...v0.1.8)
-
-
-### 🚀 Enhancements
-
-  - Add flat styleguides for eslint@^9 (cda5712)
-
-### ❤️  Contributors
-
-- Dsfx3d <dsfx3d@gmail.com>
-
-## v0.1.7
-
-[compare changes](https://undefined/undefined/compare/v0.1.6...v0.1.7)
-
-
-### 🚀 Enhancements
-
-  - Add flat styleguides for eslint@^9 (cda5712)
+- Add flat styleguides for eslint@^9 (cda5712)
 
 ### ❤️  Contributors
 
@@ -44,18 +16,17 @@
 
 [compare changes](https://undefined/undefined/compare/v0.1.5...v0.1.6)
 
-
 ### 🚀 Enhancements
 
-  - Disable `no-useless-constructor` (14512d5)
+- Disable `no-useless-constructor` (14512d5)
 
 ### 🩹 Fixes
 
-  - **deps:** Update dependency eslint-plugin-sonarjs to ^0.21.0 (63d5c72)
+- **deps:** Update dependency eslint-plugin-sonarjs to ^0.21.0 (63d5c72)
 
 ### 🏡 Chore
 
-  - **vscode:** Enable explicit auto-formatting (5467870)
+- **vscode:** Enable explicit auto-formatting (5467870)
 
 ### ❤️  Contributors
 
@@ -65,10 +36,9 @@
 
 [compare changes](https://undefined/undefined/compare/v0.1.4...v0.1.5)
 
-
 ### 🏡 Chore
 
-  - **eslint:** `"unicorn/prefer-top-level-await": "off"` (afd88cd)
+- **eslint:** `"unicorn/prefer-top-level-await": "off"` (afd88cd)
 
 ### ❤️  Contributors
 
@@ -78,11 +48,10 @@
 
 [compare changes](https://undefined/undefined/compare/v0.1.3...v0.1.4)
 
-
 ### 🏡 Chore
 
-  - **eslint:** `"unicorn/prefer-module": "off"` (6a67ea0)
-  - **eslint:** `"unicorn/top-level-await": "off"` (ea899e2)
+- **eslint:** `"unicorn/prefer-module": "off"` (6a67ea0)
+- **eslint:** `"unicorn/top-level-await": "off"` (ea899e2)
 
 ### ❤️  Contributors
 
@@ -92,12 +61,11 @@
 
 [compare changes](https://undefined/undefined/compare/v0.1.2...v0.1.3)
 
-
 ### 🏡 Chore
 
-  - **eslint:** Turn off `unicorn/filename-case` (4680bc6)
-  - **eslint:** Turn off `import/order` (c858567)
-  - **eslint:** Turn off `require-await` (40318b6)
+- **eslint:** Turn off `unicorn/filename-case` (4680bc6)
+- **eslint:** Turn off `import/order` (c858567)
+- **eslint:** Turn off `require-await` (40318b6)
 
 ### ❤️  Contributors
 
@@ -107,10 +75,9 @@
 
 [compare changes](https://undefined/undefined/compare/v0.1.1...v0.1.2)
 
-
 ### 📖 Documentation
 
-  - **readme:** Change project description (7d5f2fb)
+- **readme:** Change project description (7d5f2fb)
 
 ### ❤️  Contributors
 
@@ -120,10 +87,9 @@
 
 [compare changes](https://undefined/undefined/compare/v0.0.5...v0.1.1)
 
-
 ### 🚀 Enhancements
 
-  - Force minor release (738c83a)
+- Force minor release (738c83a)
 
 ### ❤️  Contributors
 
@@ -133,10 +99,9 @@
 
 [compare changes](https://undefined/undefined/compare/v0.0.4...v0.0.5)
 
-
 ### 📖 Documentation
 
-  - Add README (f9d88ec)
+- Add README (f9d88ec)
 
 ### ❤️  Contributors
 
@@ -146,24 +111,23 @@
 
 [compare changes](https://undefined/undefined/compare/v0.0.3...v0.0.4)
 
-
 ### 🚀 Enhancements
 
-  - **eslint:** Add recommended config of sonarjs (#6)
-  - **complexity:** Set max cyclomatic complexity (#6)
-  - **complexity:** Allowed `max-param` 4 (#6)
-  - **complexity:** Allowed `max-statements` 7 (#6)
-  - **complexity:** Allowed `max-statements-per-line` max 1 (#6)
-  - **complexity:** Allow 2 `max-nested-callbacks` (#6)
-  - **complexity:** Allow 3 `max-depth` (#6)
+- **eslint:** Add recommended config of sonarjs (#6)
+- **complexity:** Set max cyclomatic complexity (#6)
+- **complexity:** Allowed `max-param` 4 (#6)
+- **complexity:** Allowed `max-statements` 7 (#6)
+- **complexity:** Allowed `max-statements-per-line` max 1 (#6)
+- **complexity:** Allow 2 `max-nested-callbacks` (#6)
+- **complexity:** Allow 3 `max-depth` (#6)
 
 ### 📦 Build
 
-  - **package:** Remove publishing and pushing from release script (5403b0a)
+- **package:** Remove publishing and pushing from release script (5403b0a)
 
 ### 🏡 Chore
 
-  - **changelog:** Set github repo (dcdd0d9)
+- **changelog:** Set github repo (dcdd0d9)
 
 ### ❤️  Contributors
 
@@ -173,18 +137,17 @@
 
 [compare changes](https://undefined/undefined/compare/v0.0.2...v0.0.3)
 
-
 ### 🚀 Enhancements
 
-  - Turn off object-curly-spacing rule (44d6a3d)
+- Turn off object-curly-spacing rule (44d6a3d)
 
 ### 🏡 Chore
 
-  - 🔧  set commitizen adapter (#4)
-  - 🔨  husky init script (#4)
-  - **commitlint:** Add config (#4)
-  - **husky:** Lint commit message on commit-msg hook (e587426)
-  - **commitizen:** Run commitizen on prepare-cmmit-msg hook (6c772bc)
+- 🔧  set commitizen adapter (#4)
+- 🔨  husky init script (#4)
+- **commitlint:** Add config (#4)
+- **husky:** Lint commit message on commit-msg hook (e587426)
+- **commitizen:** Run commitizen on prepare-cmmit-msg hook (6c772bc)
 
 ### ❤️  Contributors
 
@@ -194,10 +157,9 @@
 
 [compare changes](https://undefined/undefined/compare/v0.0.1...v0.0.2)
 
-
 ### 🏡 Chore
 
-  - 📝 add npm version badge (6f6a014)
+- 📝 add npm version badge (6f6a014)
 
 ### ❤️  Contributors
 
@@ -205,21 +167,19 @@
 
 ## v0.0.1
 
-
 ### 🚀 Enhancements
 
-  - ✨  expose ESLint config (1037209)
+- ✨  expose ESLint config (1037209)
 
 ### 🏡 Chore
 
-  - 🔥  remove unused files (f6cf606)
-  - 🎉 project setup (3905933)
-  - 🔧  add config for changelogen (ddf41e3)
-  - 🔧  add ESLint config (70e69b3)
-  - 🔧  add prettier config (15725ed)
-  - 📝 add README (ebfd120)
+- 🔥  remove unused files (f6cf606)
+- 🎉 project setup (3905933)
+- 🔧  add config for changelogen (ddf41e3)
+- 🔧  add ESLint config (70e69b3)
+- 🔧  add prettier config (15725ed)
+- 📝 add README (ebfd120)
 
 ### ❤️  Contributors
 
 - Yashodhan Singh Rathore <dsfx3d@gmail.com>
-
