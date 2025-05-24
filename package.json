@@ -36,8 +36,8 @@
     "typescript-eslint": "^8.0.1"
   },
   "devDependencies": {
-    "@commitlint/cli": "^17.7.1",
-    "@commitlint/config-conventional": "^17.7.0",
+    "@commitlint/cli": "^19.0.0",
+    "@commitlint/config-conventional": "^19.0.0",
     "@stylistic/eslint-plugin": "^2.11.0",
     "@typescript-eslint/utils": "^8.16.0",
     "changelogen": "^0.5.3",
