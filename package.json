@@ -21,7 +21,7 @@
     "@typescript-eslint/eslint-plugin": "^8.16.0",
     "@typescript-eslint/parser": "^8.16.0",
     "eslint-config-prettier": "^10.0.0",
-    "eslint-config-unjs": "^0.2.1",
+    "eslint-config-unjs": "^0.5.0",
     "eslint-plugin-prettier": "^5.0.0",
     "eslint-plugin-sonarjs": "^3.0.0",
     "eslint-plugin-sort-imports-es6-autofix": "^0.6.0",
